@@ -5,11 +5,9 @@ This dataset contains weekly sales data for a variety of health and wellness sup
 
 ## Files Included
 
-- `cleaned_sales_data.xlsx`: Final cleaned version of the dataset.
-- Supplement_Sales_Weekly_Expanded.csv
-- `data/`: Folder for structured uploads by month or category.
+- task_4aug.xlsx : Final cleaned version of the dataset
+-  Supplement_Sales_Weekly_Expanded.csv : Raw dataset
 
----
 
 ##  Data Columns
 
